@@ -15,4 +15,4 @@ This project uses the following software and Python libraries: <br>
 NumPy, pandas, Sklearn / scikit-learn, Matplotlib (for data visualization), Seaborn (for data visualization)
 
 ## Code File
-Open file jupyter notebook imageclassifierproject.ipynb
+Open file jupyter notebook Flower Image Classifier Project.ipynb
