@@ -2,7 +2,7 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application. 
 
-Essentially, I am tasked to build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
+Essentially, the mission is to build a Python application that can train an image classifier on a dataset, then predict new images using the trained model.
 
 • ```Challenge```: Udacity Data Scientist Nanodegree project for deep learning module titled as 'Image Classifier with Deep Learning' attempts to train an image classifier to recognize different species of flowers. We can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice we had to train this classifier, then export it for use in our application. We had used a dataset (http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories.
 
